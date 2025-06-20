@@ -20,9 +20,9 @@ have links to earlier JEPs for the feature, as appropriate.
 
 Currently finalizing:
 
--   [513: Flexible Constructor Bodies](https://openjdk.org/jeps/513) (preview: [447](https://openjdk.org/jeps/447), [482](https://openjdk.org/jeps/482), [492](https://openjdk.org/jeps/492))
--   [512: Compact Source Files and Instance Main Methods](https://openjdk.org/jeps/512) (preview:  [445](https://openjdk.org/jeps/445), [463](https://openjdk.org/jeps/463), [477](https://openjdk.org/jeps/477), [495](https://openjdk.org/jeps/495))
--   [511: Module Import Declarations](https://openjdk.org/jeps/511) (preview: [476](https://openjdk.org/jeps/476), [494](https://openjdk.org/jeps/494))
+-   [513: Flexible Constructor Bodies](https://openjdk.org/jeps/513) (previews: [447](https://openjdk.org/jeps/447), [482](https://openjdk.org/jeps/482), [492](https://openjdk.org/jeps/492))
+-   [512: Compact Source Files and Instance Main Methods](https://openjdk.org/jeps/512) (previews:  [445](https://openjdk.org/jeps/445), [463](https://openjdk.org/jeps/463), [477](https://openjdk.org/jeps/477), [495](https://openjdk.org/jeps/495))
+-   [511: Module Import Declarations](https://openjdk.org/jeps/511) (previews: [476](https://openjdk.org/jeps/476), [494](https://openjdk.org/jeps/494))
 
 Currently in preview:
 
