@@ -18,16 +18,19 @@ have links to earlier JEPs for the feature, as appropriate.
 
 ## Status of JEPs
 
-Currently in progress:
+Currently finalizing:
 
--   [468: Derived Record Creation (Preview)](https://openjdk.org/jeps/468)
+-   [513: Flexible Constructor Bodies](https://openjdk.org/jeps/513) (previous: [447](https://openjdk.org/jeps/447), [482](https://openjdk.org/jeps/482), [492](https://openjdk.org/jeps/492))
+-   [512: Compact Source Files and Instance Main Methods](https://openjdk.org/jeps/512) (previous:  [445](https://openjdk.org/jeps/445), [463](https://openjdk.org/jeps/463), [477](https://openjdk.org/jeps/477), [495](https://openjdk.org/jeps/495))
+-   [511: Module Import Declarations](https://openjdk.org/jeps/511) (previous: [476](https://openjdk.org/jeps/476), [494](https://openjdk.org/jeps/494))
 
 Currently in preview:
 
--   [495: Simple Source Files and Instance Main Methods (Fourth Preview)](https://openjdk.org/jeps/495) (previous: [445](https://openjdk.org/jeps/445), [463](https://openjdk.org/jeps/463), [477](https://openjdk.org/jeps/477))
--   [494: Module Import Declarations (Second Preview)](https://openjdk.org/jeps/494) (previous: [476](https://openjdk.org/jeps/476))
--   [492: Flexible Constructor Bodies (Third Preview)](https://openjdk.org/jeps/492) (previous: [447](https://openjdk.org/jeps/447), [482](https://openjdk.org/jeps/482))
--   [488: Primitive Types in Patterns, <code>instanceof</code>, and <code>switch</code> (Second Preview)](https://openjdk.org/jeps/488) (previous: [455](https://openjdk.org/jeps/455))
+-   [507: Primitive Types in Patterns, <code>instanceof</code>, and <code>switch</code> (Third Preview)](https://openjdk.org/jeps/507) (previous: [455](https://openjdk.org/jeps/455), [488](https://openjdk.org/jeps/488))
+
+Currently in progress:
+
+-   [468: Derived Record Creation (Preview)](https://openjdk.org/jeps/468)
 
 Delivered:
 
