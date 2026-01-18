@@ -1,4 +1,4 @@
-# Paving the on-ramp
+# Paving the On-Ramp
 #### Brian Goetz {.author}
 #### September 2022 {.date}
 

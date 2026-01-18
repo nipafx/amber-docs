@@ -1,4 +1,4 @@
-# Towards member patterns
+# Towards Member Patterns
 #### Brian Goetz {.author}
 #### January 2024 {.date}
 
