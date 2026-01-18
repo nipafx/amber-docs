@@ -78,6 +78,7 @@ Withdrawn:
         -   [Patterns: Exhaustiveness, Unconditionality, and Remainder](design-notes/patterns/exhaustiveness) (May 2023)
         -   [Towards Member Patterns](design-notes/patterns/towards-member-patterns) (January 2024)
     -   [String Tapas Redux: Beyond Mere String Interpolation](design-notes/templated-strings) (September 2021)
+    -   [Data-Oriented Programming for Java: Beyond Records](design-notes/beyond-records) (January 2026)
 
 -   Historical notes
     -   [Data Classes for Java](design-notes/data-classes-historical-1) (October 2017)
